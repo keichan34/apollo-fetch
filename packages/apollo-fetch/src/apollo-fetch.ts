@@ -14,7 +14,6 @@ import {
   FetchError,
   BatchError,
 } from './types';
-import 'cross-fetch/polyfill';
 
 type WareStack =
   | MiddlewareInterface[]
