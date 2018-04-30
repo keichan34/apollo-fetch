@@ -47,7 +47,7 @@ jspm_packages
 .yarn-integrity
 
 # 
-dist
+# dist
 
 # lockfiles
 yarn.lock
